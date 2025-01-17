@@ -1,0 +1,13 @@
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\bin\Debug\net9.0\PortfolioRepository.Core.deps.json
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\bin\Debug\net9.0\PortfolioRepository.Core.dll
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\bin\Debug\net9.0\PortfolioRepository.Core.pdb
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\obj\Debug\net9.0\PortfolioRepository.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\obj\Debug\net9.0\PortfolioRepository.Core.AssemblyInfoInputs.cache
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\obj\Debug\net9.0\PortfolioRepository.Core.AssemblyInfo.cs
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\obj\Debug\net9.0\PortfolioRepository.Core.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\obj\Debug\net9.0\PortfolioRepository.Core.sourcelink.json
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\obj\Debug\net9.0\PortfolioRepository.Core.dll
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\obj\Debug\net9.0\refint\PortfolioRepository.Core.dll
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\obj\Debug\net9.0\PortfolioRepository.Core.pdb
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\obj\Debug\net9.0\ref\PortfolioRepository.Core.dll
+D:\Projects\C#\Web Portfolio\MyWebProtfolio\PortfolioRepository.Core\obj\Debug\net9.0\PortfolioRepository.Core.csproj.AssemblyReference.cache

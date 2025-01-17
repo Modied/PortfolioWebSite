@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="wwwroot\img\.DS_Store" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Update="wwwroot\js\soft-ui-dashboard.min.js">
+			<ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+			<CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Controllers\VisitorUI\" />
+		<Folder Include="wwwroot\FilesStorage\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\PortfolioRepository.Core\PortfolioRepository.Core.csproj" />
+		<ProjectReference Include="..\PortfolioService\PortfolioService.csproj" />
+		<ProjectReference Include="..\PortfolioWOF.EF\PortfolioWOF.EF.csproj" />
+	</ItemGroup>
+
+</Project>
